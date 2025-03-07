@@ -6,6 +6,7 @@ Dieses Repository enthält Programme zur Messung und Analyse der Ausführungszei
 **Hauptfunktionen:**
 - **Sortieralgorithmen**: Durchführung von Performance-Tests für die Sortieralgorithmen QuickSort, Insertion Sort, BubbleSort und den Dextre-Algorithmus.
 - **Matrix-Multiplikation**: Performance-Messungen zur Matrix-Multiplikation, durchgeführt unter verschiedenen Speicherstrategien (Heap, Stack).
+👉 **[Matrizenmultiplikation(Main).pdf](./Matrizenmultiplikation(Main).pdf)**
 - **Zeitmessung**: Präzise Messung der Ausführungszeiten, um die Leistung der Algorithmen zu vergleichen.
 - **Optimierungsstufen O1, O2 und O3**: Analyse der Auswirkungen von Compiler-Optimierungen auf die Performance von Algorithmen.
 - **Unterschiede zwischen Datentypen**: Unterscheidung der Auswirkungen der Bearbeitung von **Integer**, **Double** und **Float** auf die Performance der Algorithmen.
