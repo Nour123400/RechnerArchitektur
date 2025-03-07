@@ -1,0 +1,1 @@
+gcc CMakeFiles/matrix_mini_o3.dir/Matrix.c.o -o matrix_mini_o3 

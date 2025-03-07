@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nour/Matrix/matrixParllCount/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/Matrix_ParallCount_g.dir/Matrix_ParallCount.c.o -c /home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c",
+  "file": "/home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c"
+},
+{
+  "directory": "/home/nour/Matrix/matrixParllCount/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/Matrix_ParallCount_o1.dir/Matrix_ParallCount.c.o -c /home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c",
+  "file": "/home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c"
+},
+{
+  "directory": "/home/nour/Matrix/matrixParllCount/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/Matrix_ParallCount_o2.dir/Matrix_ParallCount.c.o -c /home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c",
+  "file": "/home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c"
+},
+{
+  "directory": "/home/nour/Matrix/matrixParllCount/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/Matrix_ParallCount_o3.dir/Matrix_ParallCount.c.o -c /home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c",
+  "file": "/home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c"
+},
+{
+  "directory": "/home/nour/Matrix/matrixParllCount/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/Matrix_ParallCount_gcc.dir/Matrix_ParallCount.c.o -c /home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c",
+  "file": "/home/nour/Matrix/matrixParllCount/Matrix_ParallCount.c"
+}
+]

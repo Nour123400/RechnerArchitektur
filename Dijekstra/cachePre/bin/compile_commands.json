@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nour/Dijekstra/cachePre/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/cache_g.dir/cache.c.o -c /home/nour/Dijekstra/cachePre/cache.c",
+  "file": "/home/nour/Dijekstra/cachePre/cache.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/cachePre/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/cache_o1.dir/cache.c.o -c /home/nour/Dijekstra/cachePre/cache.c",
+  "file": "/home/nour/Dijekstra/cachePre/cache.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/cachePre/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/cache_o2.dir/cache.c.o -c /home/nour/Dijekstra/cachePre/cache.c",
+  "file": "/home/nour/Dijekstra/cachePre/cache.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/cachePre/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/cache_o3.dir/cache.c.o -c /home/nour/Dijekstra/cachePre/cache.c",
+  "file": "/home/nour/Dijekstra/cachePre/cache.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/cachePre/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/cache_gcc.dir/cache.c.o -c /home/nour/Dijekstra/cachePre/cache.c",
+  "file": "/home/nour/Dijekstra/cachePre/cache.c"
+}
+]

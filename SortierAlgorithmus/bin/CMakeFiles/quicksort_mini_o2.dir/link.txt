@@ -1,0 +1,1 @@
+gcc CMakeFiles/quicksort_mini_o2.dir/sort.c.o -o quicksort_mini_o2 

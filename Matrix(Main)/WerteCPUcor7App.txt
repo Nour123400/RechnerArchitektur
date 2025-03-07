@@ -1,0 +1,78 @@
+┌──(nour㉿kali)-[~/Matrix/stackMatrix]
+└─$ ./g
+NS elapsed: 3000 ns
+NS elapsed: 23366000 ns
+NS elapsed: 335474000 ns
+
+
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/Orginal]
+└─$ ./gcc
+NS elapsed: 5798000 ns
+NS elapsed: 25656000 ns
+NS elapsed: 7853173000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Orginal]
+└─$ ./g  
+NS elapsed: 5661000 ns
+NS elapsed: 26099000 ns
+NS elapsed: 7665079000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Orginal]
+└─$ ./o1
+NS elapsed: 5775000 ns
+NS elapsed: 23799000 ns
+NS elapsed: 8192676000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Orginal]
+└─$ ./o2
+NS elapsed: 6174000 ns
+NS elapsed: 23255000 ns
+NS elapsed: 8230009000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Orginal]
+└─$ ./o3
+NS elapsed: 5453000 ns
+NS elapsed: 22735000 ns
+NS elapsed: 8176043000 ns
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+                              
+┌──(nour㉿kali)-[~/Matrix/chacheLP]
+└─$ ./g 
+122000 ns
+28099000 ns
+3871404000 ns
+
+
+
+
+
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/Matrix_Parall]
+└─$ ./g
+111000 ns
+28021000 ns
+3650148000 ns
+
+

@@ -1,0 +1,7 @@
+/home/nour/Matrix/Orginal/bin/CMakeFiles/matrix_mini_g.dir
+/home/nour/Matrix/Orginal/bin/CMakeFiles/matrix_mini_o1.dir
+/home/nour/Matrix/Orginal/bin/CMakeFiles/matrix_mini_o2.dir
+/home/nour/Matrix/Orginal/bin/CMakeFiles/matrix_mini_o3.dir
+/home/nour/Matrix/Orginal/bin/CMakeFiles/matrix_mini_gcc.dir
+/home/nour/Matrix/Orginal/bin/CMakeFiles/edit_cache.dir
+/home/nour/Matrix/Orginal/bin/CMakeFiles/rebuild_cache.dir

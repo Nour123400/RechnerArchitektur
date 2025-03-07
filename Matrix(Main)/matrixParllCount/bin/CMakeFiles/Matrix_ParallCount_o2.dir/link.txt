@@ -1,0 +1,1 @@
+gcc CMakeFiles/Matrix_ParallCount_o2.dir/Matrix_ParallCount.c.o -o Matrix_ParallCount_o2  -fopenmp 

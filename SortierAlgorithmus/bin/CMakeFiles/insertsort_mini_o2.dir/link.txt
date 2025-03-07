@@ -1,0 +1,1 @@
+gcc CMakeFiles/insertsort_mini_o2.dir/insert.c.o -o insertsort_mini_o2 

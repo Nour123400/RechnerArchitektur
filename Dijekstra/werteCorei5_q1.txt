@@ -1,0 +1,18 @@
+┌──(nour㉿kali)-[~/Dijekstra/Orginal/bin]
+G   NS elapsed: 10397000 ns
+GCC NS elapsed: 5739000 ns
+O1  NS elapsed: 5142000 ns
+O2  NS elapsed: 5107000 ns
+O3  NS elapsed: 4812000 ns
+
+
+
+┌──(nour㉿kali)-[~/Dijekstra/parall/bin]
+NS elapsed: 763972000 ns
+
+
+┌──(nour㉿kali)-[~/Dijekstra/cachePre/bin]
+NS elapsed: 10942000 ns
+
+
+

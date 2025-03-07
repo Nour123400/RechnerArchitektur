@@ -1,0 +1,7 @@
+/home/nour/Matrix/stackMatrix/bin/CMakeFiles/stackMatrix_g.dir
+/home/nour/Matrix/stackMatrix/bin/CMakeFiles/stackMatrix_o1.dir
+/home/nour/Matrix/stackMatrix/bin/CMakeFiles/stackMatrix_o2.dir
+/home/nour/Matrix/stackMatrix/bin/CMakeFiles/stackMatrix_o3.dir
+/home/nour/Matrix/stackMatrix/bin/CMakeFiles/stackMatrix_gcc.dir
+/home/nour/Matrix/stackMatrix/bin/CMakeFiles/edit_cache.dir
+/home/nour/Matrix/stackMatrix/bin/CMakeFiles/rebuild_cache.dir

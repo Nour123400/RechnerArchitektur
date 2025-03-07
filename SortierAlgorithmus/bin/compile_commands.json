@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -o CMakeFiles/sort.dir/main.c.o -c /home/nour/sort1/main.c",
+  "file": "/home/nour/sort1/main.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -o CMakeFiles/sort.dir/post_process.c.o -c /home/nour/sort1/post_process.c",
+  "file": "/home/nour/sort1/post_process.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -o CMakeFiles/sort.dir/pre_process.c.o -c /home/nour/sort1/pre_process.c",
+  "file": "/home/nour/sort1/pre_process.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -o CMakeFiles/sort.dir/sort.c.o -c /home/nour/sort1/sort.c",
+  "file": "/home/nour/sort1/sort.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/quicksort_mini_g.dir/sort.c.o -c /home/nour/sort1/sort.c",
+  "file": "/home/nour/sort1/sort.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/quicksort_mini_o1.dir/sort.c.o -c /home/nour/sort1/sort.c",
+  "file": "/home/nour/sort1/sort.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/quicksort_mini_o2.dir/sort.c.o -c /home/nour/sort1/sort.c",
+  "file": "/home/nour/sort1/sort.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/quicksort_mini_o3.dir/sort.c.o -c /home/nour/sort1/sort.c",
+  "file": "/home/nour/sort1/sort.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/bubblesort_mini_g.dir/bubble.c.o -c /home/nour/sort1/bubble.c",
+  "file": "/home/nour/sort1/bubble.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/bubblesort_mini_o1.dir/bubble.c.o -c /home/nour/sort1/bubble.c",
+  "file": "/home/nour/sort1/bubble.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/bubblesort_mini_o2.dir/bubble.c.o -c /home/nour/sort1/bubble.c",
+  "file": "/home/nour/sort1/bubble.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/bubblesort_mini_o3.dir/bubble.c.o -c /home/nour/sort1/bubble.c",
+  "file": "/home/nour/sort1/bubble.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/insertsort_mini_g.dir/insert.c.o -c /home/nour/sort1/insert.c",
+  "file": "/home/nour/sort1/insert.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/insertsort_mini_o1.dir/insert.c.o -c /home/nour/sort1/insert.c",
+  "file": "/home/nour/sort1/insert.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/insertsort_mini_o2.dir/insert.c.o -c /home/nour/sort1/insert.c",
+  "file": "/home/nour/sort1/insert.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/insertsort_mini_o3.dir/insert.c.o -c /home/nour/sort1/insert.c",
+  "file": "/home/nour/sort1/insert.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/matrix_mini_g.dir/Matrix.c.o -c /home/nour/sort1/Matrix.c",
+  "file": "/home/nour/sort1/Matrix.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/matrix_mini_o1.dir/Matrix.c.o -c /home/nour/sort1/Matrix.c",
+  "file": "/home/nour/sort1/Matrix.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/matrix_mini_o2.dir/Matrix.c.o -c /home/nour/sort1/Matrix.c",
+  "file": "/home/nour/sort1/Matrix.c"
+},
+{
+  "directory": "/home/nour/sort1/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/matrix_mini_o3.dir/Matrix.c.o -c /home/nour/sort1/Matrix.c",
+  "file": "/home/nour/sort1/Matrix.c"
+}
+]

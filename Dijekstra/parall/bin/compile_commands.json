@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nour/Dijekstra/parall/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/parall_g.dir/parall.c.o -c /home/nour/Dijekstra/parall/parall.c",
+  "file": "/home/nour/Dijekstra/parall/parall.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/parall/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/parall_o1.dir/parall.c.o -c /home/nour/Dijekstra/parall/parall.c",
+  "file": "/home/nour/Dijekstra/parall/parall.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/parall/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/parall_o2.dir/parall.c.o -c /home/nour/Dijekstra/parall/parall.c",
+  "file": "/home/nour/Dijekstra/parall/parall.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/parall/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/parall_o3.dir/parall.c.o -c /home/nour/Dijekstra/parall/parall.c",
+  "file": "/home/nour/Dijekstra/parall/parall.c"
+},
+{
+  "directory": "/home/nour/Dijekstra/parall/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -fopenmp -o CMakeFiles/parall_gcc.dir/parall.c.o -c /home/nour/Dijekstra/parall/parall.c",
+  "file": "/home/nour/Dijekstra/parall/parall.c"
+}
+]

@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/quicksort_mini_o3.dir/sort.c.o"
+  "CMakeFiles/quicksort_mini_o3.dir/sort.c.o.d"
+  "quicksort_mini_o3"
+  "quicksort_mini_o3.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/quicksort_mini_o3.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

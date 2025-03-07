@@ -1,0 +1,1 @@
+gcc CMakeFiles/bubblesort_mini_o3.dir/bubble.c.o -o bubblesort_mini_o3 

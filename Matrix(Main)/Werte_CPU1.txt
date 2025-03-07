@@ -1,0 +1,243 @@
+┌──(nour㉿kali)-[~/Matrix/stackMatrix/bin]
+└─$ ./stackMatrix_g 
+zsh: segmentation fault  ./stackMatrix_g
+
+┌──(nour㉿kali)-[~/Matrix/stackMatrix/bin]
+└─$ ./stackMatrix_o1 
+3000 ns
+98328000 ns
+1511810000 ns
+
+──(nour㉿kali)-[~/Matrix/stackMatrix/bin]
+└─$ ./stackMatrix_o2
+2000 ns
+92877000 ns
+1000 ns
+
+┌──(nour㉿kali)-[~/Matrix/stackMatrix/bin]
+└─$ ./stackMatrix_o3
+3000 ns
+117948000 ns
+1000 ns
+
+┌──(nour㉿kali)-[~/Matrix/stackMatrix/bin]
+└─$ ./stackMatrix_gcc 
+3000 ns
+104838000 ns
+1000 ns
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/Orginal/bin]
+└─$ ./matrix_mini_g
+11078000 ns
+95839000 ns
+8558913000 ns
+
+
+┌──(nour㉿kali)-[~/Matrix/Orginal/bin]
+└─$ ./matrix_mini_o1
+10740000 ns
+94288000 ns
+2454697000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Orginal/bin]
+└─$ ./matrix_mini_o2
+10787000 ns
+92187000 ns
+2569703000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Orginal/bin]
+└─$ ./matrix_mini_o3
+10349000 ns
+93191000 ns
+2569520000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Orginal/bin]
+└─$ ./matrix_mini_gcc
+11279000 ns
+90215000 ns
+2615068000 ns
+
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/float/bin]
+└─$ ./floatMatrix_g 
+12589000 ns
+125458000 ns
+13628458000 ns
+
+┌──(nour㉿kali)-[~/Matrix/float/bin]
+└─$ ./floatMatrix_o1
+11022000 ns
+94928000 ns
+3003611000 ns
+
+
+┌──(nour㉿kali)-[~/Matrix/float/bin]
+└─$ ./floatMatrix_o2
+11422000 ns
+94222000 ns
+3042300000 ns
+
+
+┌──(nour㉿kali)-[~/Matrix/float/bin]
+└─$ ./floatMatrix_o3
+10992000 ns
+96164000 ns
+3118884000 ns
+
+┌──(nour㉿kali)-[~/Matrix/float/bin]
+└─$ ./floatMatrix_gcc
+12115000 ns
+113168000 ns
+3413100000 ns
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/Double/bin]
+└─$ ./doubleMatrix_g 
+13151000 ns
+136228000 ns
+15551587000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Double/bin]
+└─$ ./doubleMatrix_o1
+12439000 ns
+102148000 ns
+6173560000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Double/bin]
+└─$ ./doubleMatrix_o2
+11666000 ns
+101719000 ns
+4935873000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Double/bin]
+└─$ ./doubleMatrix_o3
+11303000 ns
+98589000 ns
+4762890000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Double/bin]
+└─$ ./doubleMatrix_gcc
+13119000 ns
+119583000 ns
+5262299000 ns
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/chacheLP/bin]
+└─$ ./matCacheLP_g 
+53000 ns
+109477000 ns
+7011381000 ns
+
+┌──(nour㉿kali)-[~/Matrix/chacheLP/bin]
+└─$ ./matCacheLP_o1
+50000 ns
+115702000 ns
+2422454000 ns
+
+┌──(nour㉿kali)-[~/Matrix/chacheLP/bin]
+└─$ ./matCacheLP_o2
+48000 ns
+99581000 ns
+975866000 ns
+
+┌──(nour㉿kali)-[~/Matrix/chacheLP/bin]
+└─$ ./matCacheLP_o3
+44000 ns
+103790000 ns
+1065833000 ns
+
+┌──(nour㉿kali)-[~/Matrix/chacheLP/bin]
+└─$ ./matCacheLP_gcc
+50000 ns
+101842000 ns
+1165211000 ns
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/Matrix_Parall/bin]
+└─$ ./Matrix_Parall_g
+31000 ns
+104352000 ns
+22912286000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Matrix_Parall/bin]
+└─$ ./Matrix_Parall_o1
+30000 ns
+108074000 ns
+7004363000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Matrix_Parall/bin]
+└─$ ./Matrix_Parall_o2
+29000 ns
+105370000 ns
+10138564000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Matrix_Parall/bin]
+└─$ ./Matrix_Parall_o3
+28000 ns
+98785000 ns
+9604591000 ns
+
+┌──(nour㉿kali)-[~/Matrix/Matrix_Parall/bin]
+└─$ ./Matrix_Parall_gcc
+31000 ns
+88422000 ns
+7256446000 ns
+
+
+
+
+
+
+┌──(nour㉿kali)-[~/Matrix/matrixParllCount/bin]
+└─$ ./Matrix_ParallCount_g
+36000 ns
+65856000 ns
+3888347000 ns
+
+
+┌──(nour㉿kali)-[~/Matrix/matrixParllCount/bin]
+└─$ ./Matrix_ParallCount_o1
+35000 ns
+38801000 ns
+1095059000 ns
+
+┌──(nour㉿kali)-[~/Matrix/matrixParllCount/bin]
+└─$ ./Matrix_ParallCount_o2
+34000 ns
+38441000 ns
+2687093000 ns
+
+┌──(nour㉿kali)-[~/Matrix/matrixParllCount/bin]
+└─$ ./Matrix_ParallCount_o3
+31000 ns
+38218000 ns
+2777386000 ns
+
+┌──(nour㉿kali)-[~/Matrix/matrixParllCount/bin]
+└─$ ./Matrix_ParallCount_gcc
+36000 ns
+39329000 ns
+3829552000 ns
+
+
+
+
+
+

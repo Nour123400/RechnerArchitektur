@@ -1,0 +1,7 @@
+/home/nour/Dijekstra/parall/bin/CMakeFiles/parall_g.dir
+/home/nour/Dijekstra/parall/bin/CMakeFiles/parall_o1.dir
+/home/nour/Dijekstra/parall/bin/CMakeFiles/parall_o2.dir
+/home/nour/Dijekstra/parall/bin/CMakeFiles/parall_o3.dir
+/home/nour/Dijekstra/parall/bin/CMakeFiles/parall_gcc.dir
+/home/nour/Dijekstra/parall/bin/CMakeFiles/edit_cache.dir
+/home/nour/Dijekstra/parall/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+gcc CMakeFiles/sort.dir/main.c.o CMakeFiles/sort.dir/post_process.c.o CMakeFiles/sort.dir/pre_process.c.o CMakeFiles/sort.dir/sort.c.o -o sort 

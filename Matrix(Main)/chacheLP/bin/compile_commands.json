@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nour/Matrix/chacheLP/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/matCacheLP_g.dir/Matrix_cacheLP.c.o -c /home/nour/Matrix/chacheLP/Matrix_cacheLP.c",
+  "file": "/home/nour/Matrix/chacheLP/Matrix_cacheLP.c"
+},
+{
+  "directory": "/home/nour/Matrix/chacheLP/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/matCacheLP_o1.dir/Matrix_cacheLP.c.o -c /home/nour/Matrix/chacheLP/Matrix_cacheLP.c",
+  "file": "/home/nour/Matrix/chacheLP/Matrix_cacheLP.c"
+},
+{
+  "directory": "/home/nour/Matrix/chacheLP/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/matCacheLP_o2.dir/Matrix_cacheLP.c.o -c /home/nour/Matrix/chacheLP/Matrix_cacheLP.c",
+  "file": "/home/nour/Matrix/chacheLP/Matrix_cacheLP.c"
+},
+{
+  "directory": "/home/nour/Matrix/chacheLP/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/matCacheLP_o3.dir/Matrix_cacheLP.c.o -c /home/nour/Matrix/chacheLP/Matrix_cacheLP.c",
+  "file": "/home/nour/Matrix/chacheLP/Matrix_cacheLP.c"
+},
+{
+  "directory": "/home/nour/Matrix/chacheLP/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/matCacheLP_gcc.dir/Matrix_cacheLP.c.o -c /home/nour/Matrix/chacheLP/Matrix_cacheLP.c",
+  "file": "/home/nour/Matrix/chacheLP/Matrix_cacheLP.c"
+}
+]

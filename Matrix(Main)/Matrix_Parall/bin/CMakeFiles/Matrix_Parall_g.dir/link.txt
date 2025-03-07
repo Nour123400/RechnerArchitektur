@@ -1,0 +1,1 @@
+gcc CMakeFiles/Matrix_Parall_g.dir/Matrix_Parall.c.o -o Matrix_Parall_g  -fopenmp 

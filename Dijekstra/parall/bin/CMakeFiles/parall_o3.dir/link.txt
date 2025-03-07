@@ -1,0 +1,1 @@
+gcc CMakeFiles/parall_o3.dir/parall.c.o -o parall_o3  -fopenmp 

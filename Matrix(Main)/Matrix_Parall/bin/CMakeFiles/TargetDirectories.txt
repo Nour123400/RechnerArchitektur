@@ -1,0 +1,7 @@
+/home/nour/Matrix/Matrix_Parall/bin/CMakeFiles/Matrix_Parall_g.dir
+/home/nour/Matrix/Matrix_Parall/bin/CMakeFiles/Matrix_Parall_o1.dir
+/home/nour/Matrix/Matrix_Parall/bin/CMakeFiles/Matrix_Parall_o2.dir
+/home/nour/Matrix/Matrix_Parall/bin/CMakeFiles/Matrix_Parall_o3.dir
+/home/nour/Matrix/Matrix_Parall/bin/CMakeFiles/Matrix_Parall_gcc.dir
+/home/nour/Matrix/Matrix_Parall/bin/CMakeFiles/edit_cache.dir
+/home/nour/Matrix/Matrix_Parall/bin/CMakeFiles/rebuild_cache.dir

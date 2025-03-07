@@ -1,0 +1,1 @@
+gcc CMakeFiles/stackMatrix_o3.dir/stackMatrix.c.o -o stackMatrix_o3 

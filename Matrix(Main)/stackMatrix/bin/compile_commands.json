@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nour/Matrix/stackMatrix/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/stackMatrix_g.dir/stackMatrix.c.o -c /home/nour/Matrix/stackMatrix/stackMatrix.c",
+  "file": "/home/nour/Matrix/stackMatrix/stackMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/stackMatrix/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/stackMatrix_o1.dir/stackMatrix.c.o -c /home/nour/Matrix/stackMatrix/stackMatrix.c",
+  "file": "/home/nour/Matrix/stackMatrix/stackMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/stackMatrix/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/stackMatrix_o2.dir/stackMatrix.c.o -c /home/nour/Matrix/stackMatrix/stackMatrix.c",
+  "file": "/home/nour/Matrix/stackMatrix/stackMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/stackMatrix/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/stackMatrix_o3.dir/stackMatrix.c.o -c /home/nour/Matrix/stackMatrix/stackMatrix.c",
+  "file": "/home/nour/Matrix/stackMatrix/stackMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/stackMatrix/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/stackMatrix_gcc.dir/stackMatrix.c.o -c /home/nour/Matrix/stackMatrix/stackMatrix.c",
+  "file": "/home/nour/Matrix/stackMatrix/stackMatrix.c"
+}
+]

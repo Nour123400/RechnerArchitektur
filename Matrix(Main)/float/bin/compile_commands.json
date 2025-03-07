@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/nour/Matrix/float/bin",
+  "command": "gcc   -Wall -g -D ENABLE_LOCAL_MAIN -o CMakeFiles/floatMatrix_g.dir/floatMatrix.c.o -c /home/nour/Matrix/float/floatMatrix.c",
+  "file": "/home/nour/Matrix/float/floatMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/float/bin",
+  "command": "gcc   -Wall -O1 -D ENABLE_LOCAL_MAIN -o CMakeFiles/floatMatrix_o1.dir/floatMatrix.c.o -c /home/nour/Matrix/float/floatMatrix.c",
+  "file": "/home/nour/Matrix/float/floatMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/float/bin",
+  "command": "gcc   -Wall -O2 -D ENABLE_LOCAL_MAIN -o CMakeFiles/floatMatrix_o2.dir/floatMatrix.c.o -c /home/nour/Matrix/float/floatMatrix.c",
+  "file": "/home/nour/Matrix/float/floatMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/float/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/floatMatrix_o3.dir/floatMatrix.c.o -c /home/nour/Matrix/float/floatMatrix.c",
+  "file": "/home/nour/Matrix/float/floatMatrix.c"
+},
+{
+  "directory": "/home/nour/Matrix/float/bin",
+  "command": "gcc   -Wall -O3 -D ENABLE_LOCAL_MAIN -o CMakeFiles/floatMatrix_gcc.dir/floatMatrix.c.o -c /home/nour/Matrix/float/floatMatrix.c",
+  "file": "/home/nour/Matrix/float/floatMatrix.c"
+}
+]
